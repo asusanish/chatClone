@@ -5,6 +5,10 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 First, run the development server:
 
 ```bash
+npm install react-router-dom
+then 
+npm install react-icons
+then
 npm run dev
 # or
 yarn dev
